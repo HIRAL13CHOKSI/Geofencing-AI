@@ -2,7 +2,7 @@
 
 **A real-time geofencing system using YOLOv8 and OpenCV to track students during recess and alert when they leave a predefined safe area. Built with Flask for the web interface.**
 
-![Demo]([images/demo.png](https://drive.google.com/file/d/1jckFOF5Y9_1mPJiRsnKxmRO1-n59deq-/view?usp=sharing))  <!-- Add a screenshot of your project -->
+   [Demo](https://drive.google.com/uc?export=view&id=[https://drive.google.com/file/d/1jckFOF5Y9_1mPJiRsnKxmRO1-n59deq-/view?usp=sharing])  <!-- Add a screenshot of your project -->
 
 ## Overview
 This project is a real-time geofencing system that tracks students during recess and alerts when they leave a predefined safe area. It uses **YOLOv8** for object detection, **OpenCV** for video processing, and **Flask** for the web interface.
