@@ -12,6 +12,10 @@ A computer-vision prototype that explores how video-based person detection can f
 
 During activities such as school recess, supervisors may need to monitor a designated area. This prototype explores using object detection and a visual boundary to draw attention to a possible boundary crossing.
 
+## My contribution
+
+I independently developed the code for the geofencing prototype, including the person-detection, boundary-checking, and visual-alert workflow. Other team members contributed to the presentation and other hackathon work.
+
 ## What the prototype demonstrates
 
 - **Person detection:** use YOLOv8 to identify people in video frames.
@@ -68,7 +72,8 @@ This is an experimental prototype and should not be relied on as a standalone ch
 
 ## Team
 
-Developed by **Aniruddh Nair, Hiral Choksi, Musarah Muhammad, and Anan Khan** for the AI Club & Voxel51 Hackathon.
+**Hiral Choksi:** independently developed the prototype's code.  
+**Aniruddh Nair, Musarah Muhammad, and Anan Khan:** contributed to the presentation and other hackathon work.
 
 ## Skills demonstrated
 
